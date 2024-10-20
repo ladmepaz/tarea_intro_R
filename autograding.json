@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test addition function",
-      "run": "Rscript -e 'testthat::test_file(\"tests/test_example.R\")'",
+      "run": "Rscript -e 'testthat::test_file(\"tests/test_ejercicio01.R\")'",
       "points": 1
     }
   ]
