@@ -5,5 +5,5 @@ solucion <- function() {
   a <- NULL # asigna valor aquí
   b <- NULL # asigna valor aquí
   s <- a+b
-  return(s)  # Replace with your implementation
+  return(s)
 }
