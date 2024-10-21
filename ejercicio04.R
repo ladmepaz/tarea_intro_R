@@ -5,5 +5,5 @@ solucion <- function() {
   a <- 4 # asigna valor aquí
   b <- NULL # asigna valor aquí
   s <- 2*(a+b)+2
-  return(s)  # Replace with your implementation
+  return(s)
 }
