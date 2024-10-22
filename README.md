@@ -6,8 +6,8 @@ Este repositorio contiene una serie de ejercicios básicos de R diseñados para 
 
 - **Archivos de Ejercicios (`ejercicio01.R`, `ejercicio02.R`, ..., `ejercicio10.R`)**: Cada archivo contiene un ejercicio que los estudiantes deben completar.
 - **`tests/`**: Carpeta que contiene las pruebas automatizadas para evaluar las soluciones de cada ejercicio utilizando el paquete `testthat`. (No modificar esta carpeta)
-- **`.github/workflows/ci.yml`**: Archivo de configuración de GitHub Actions para ejecutar las pruebas automáticamente cuando los estudiantes suben su código al repositorio. (No modificar esta carpeta)
-- **`autograding.json`**: Archivo de configuración para GitHub Classroom que define las pruebas y los puntajes asignados para la evaluación automática. (No modificar esta carpeta)
+- **`.github/workflows/ci.yml`**: Archivo de configuración de GitHub Actions para ejecutar las pruebas automáticamente cuando los estudiantes suben su código al repositorio. (No modificar este archivo)
+- **`autograding.json`**: Archivo de configuración para GitHub Classroom que define las pruebas y los puntajes asignados para la evaluación automática. (No modificar este archivo)
 
 ## **Pruebas Automáticas**
 
