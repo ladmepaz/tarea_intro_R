@@ -1,6 +1,6 @@
 # **Tarea de Introducción a R**
 
-Este repositorio contiene una serie de ejercicios básicos de R diseñados para estudiantes que están aprendiendo los fundamentos del lenguaje. Cada ejercicio se presenta en un archivo independiente y cubre conceptos básicos de asignación de variables en R.
+Este repositorio contiene una serie de ejercicios básicos de R. Cada ejercicio se presenta en un archivo independiente y cubre conceptos básicos de asignación de variables en R.
 
 ## **Estructura del Repositorio**
 
