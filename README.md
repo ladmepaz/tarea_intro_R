@@ -16,6 +16,5 @@ El repositorio está configurado para ejecutar pruebas automáticas con GitHub A
 ## **Recursos Adicionales**
 
 - [Documentación oficial de R](https://cran.r-project.org/manuals.html)
-- [Guía de testthat](https://testthat.r-lib.org/articles/testthat.html)
 
 ---
