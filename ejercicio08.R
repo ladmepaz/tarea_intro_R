@@ -1,7 +1,7 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
 solucion <- function() {
-  # Escribe una expresión de manera que a 's' se le asigne 4
+  # Ingresa valores en las líneas indicadas de manera que a 's' se le asigne 4
   # y a 't' se le asigne 10
   a <- 4
   b <- 8
